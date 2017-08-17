@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Wshandler": "protected"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "0.3.*"
+    }
+}

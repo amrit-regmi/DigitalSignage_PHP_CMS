@@ -1,0 +1,35 @@
+.alert-success {
+  background-color:#57a957;
+  border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+  color:#ffffff;
+  background-image: linear-gradient(to bottom, #5CB85C 0px, #419641 100%);
+  text-shadow:0 -1px 0 rgba(0,0,0,0.25);
+}
+.alert-danger, .alert-error {
+  background-color:#c43c35;
+  border-color:#b03630;
+  color:#ffffff;
+  background-image: linear-gradient(to bottom, #D9534F 0px, #C12E2A 100%);
+  text-shadow:0 -1px 0 rgba(0,0,0,0.25);
+}
+.alert-info {
+  background-color:#339bb9;
+  border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+  color:#ffffff;
+  background-image: linear-gradient(to bottom, #5BC0DE 0px, #2AABD2 100%);
+  text-shadow:0 -1px 0 rgba(0,0,0,0.25);
+}
+.alert-warning{
+  background-color:#DFD40C;
+  border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+  color:#ffffff;
+  background-image: linear-gradient(to bottom, #F0AD4E 0px, #EB9316 100%);
+  text-shadow:0 -1px 0 rgba(0,0,0,0.25);
+}
+
+span.loading{
+    width:16px;
+    height:16px;
+    display:inline-block;
+    margin-left:10px;
+}
